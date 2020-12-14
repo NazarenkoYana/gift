@@ -1,0 +1,32 @@
+.middle {
+  background-color: #F7941E;
+  margin-top: 137px;
+  padding: 80px 50px;
+  //display: flex;
+  //align-items: center;
+  //justify-content: center;
+
+
+
+  .middle_title {
+    margin-bottom: 15px;
+    //text-align: left;
+    .middle_title_bolt {
+      font-weight: bold;
+      font-size: 32px;
+      line-height: 140.62%;
+      color: #000000;
+    }
+
+    .middle_title_normal {
+      font-size: 32px;
+      line-height: 140.62%;
+      color: #000000;
+    }
+  }
+
+  .btn_middle {
+    margin-top: 16px;
+    margin-bottom: 15px;
+  }
+}

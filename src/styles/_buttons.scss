@@ -1,0 +1,45 @@
+button {
+  &.btn {
+    cursor: pointer;
+    padding: 17px 45px;
+    border-radius: 5px;
+    background: transparent;
+
+    &_header {
+      border: 1px solid #F7941E;
+      padding: 9px 30px;
+      border-radius: 5px;
+      color: #F7941E;
+      background-color: #FAFAFA;
+    }
+
+    &_orange {
+      border: 1px solid transparent;
+      color: white;
+      background-color: #F7941E;
+      margin-top: 52px;
+    }
+
+    &_orange_border {
+      border: 1px solid #F7941E;
+      color: #F7941E;
+      margin-top: 35px;
+    }
+
+    &_black {
+      border: 1px solid transparent;
+      color: white;
+      background-color: #231F20;
+      margin-right: 15px;
+      margin-bottom: 15px;
+    }
+
+    &_black_border {
+      border: 1px solid #231F20;;
+      color: #231F20;
+      margin-bottom: 15px;
+    }
+  }
+}
+
+

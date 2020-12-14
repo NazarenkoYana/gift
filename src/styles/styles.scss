@@ -1,0 +1,22 @@
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+@import "header";
+@import "card_list";
+@import "posts";
+@import "middle";
+@import "blog";
+@import "footer";
+@import "buttons";
+
+
+body{
+  margin: 0;
+  padding: 0;
+  background: #E5E5E5;
+  font-family: 'Roboto', sans-serif;
+}
+//.wrapper_contant{
+//  max-width: 1440px;
+//  margin: 0 auto;
+//  border: 1px solid black;
+//}
